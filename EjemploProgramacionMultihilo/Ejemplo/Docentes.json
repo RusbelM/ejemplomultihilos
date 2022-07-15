@@ -1,0 +1,1070 @@
+[
+  {
+    "id": 1,
+    "profesor": "Abner Junior Villavicencio Frias",
+    "correoInstitucional": "avillavicencio@itla.edu.do",
+    "area": "Seguridad en Informática / Redes"
+  },
+  {
+    "id": 2,
+    "profesor": "Alberto  Francois Michel",
+    "correoInstitucional": "amichel@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 3,
+    "profesor": "Alberto Moreta Martinez",
+    "correoInstitucional": "amoreta@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 4,
+    "profesor": "Alfio Lora",
+    "correoInstitucional": "alora@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 5,
+    "profesor": "Altagracia Rodriguez Matos",
+    "correoInstitucional": "arodriguez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 6,
+    "profesor": "Alvin Alberto Hidalgo Alcántara",
+    "correoInstitucional": "ahidalgo@itla.edu.do",
+    "area": "Cocurriculares"
+  },
+  {
+    "id": 7,
+    "profesor": "Amadis Suarez Genao",
+    "correoInstitucional": "asuarez@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 8,
+    "profesor": "Ana Gabriela Tavarez Rivas",
+    "correoInstitucional": "atavarez@itla.edu.do",
+    "area": "Ciencias de Datos"
+  },
+  {
+    "id": 9,
+    "profesor": "Andres Arias Mejia",
+    "correoInstitucional": "aarias@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 10,
+    "profesor": "Angel Evelio Sanchez Javier",
+    "correoInstitucional": "asanchez@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 11,
+    "profesor": "Antonio Bonilla",
+    "correoInstitucional": "abonilla@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 12,
+    "profesor": "Antonio Manuel Rojas Taveras",
+    "correoInstitucional": "arojas@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 13,
+    "profesor": "Bismark Montero",
+    "correoInstitucional": "tec.bismark@gmail.com",
+    "area": "Ciencias de Datos / Software"
+  },
+  {
+    "id": 14,
+    "profesor": "Carlos Bienvenido Ogando Montas",
+    "correoInstitucional": "cogando@itla.edu.do",
+    "area": "Inteligencia Artificial / Software"
+  },
+  {
+    "id": 15,
+    "profesor": "Carlos Ernesto Pimentel",
+    "correoInstitucional": "cpimentel@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 16,
+    "profesor": "Carlos Joel Santos Felix",
+    "correoInstitucional": "csantos@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 17,
+    "profesor": "Carlos Luis Luciano Baez",
+    "correoInstitucional": "cluciano@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 18,
+    "profesor": "Carlos Manuel Caraballo",
+    "correoInstitucional": "ccaraballo@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 19,
+    "profesor": "Carlos Manuel Valdez Cornielle",
+    "correoInstitucional": "cvaldez@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 20,
+    "profesor": "Carlos Manuel Vargas Toledo",
+    "correoInstitucional": "cvargas@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 21,
+    "profesor": "Cindy Yesiry Vasquez Castillo",
+    "correoInstitucional": "cvasquez@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 22,
+    "profesor": "Claudio Ramos Paulino",
+    "correoInstitucional": "cramosp@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 23,
+    "profesor": "Cristian Cesarin Cornielle Ramirez",
+    "correoInstitucional": "ccorniel@gmail.com",
+    "area": "Redes"
+  },
+  {
+    "id": 24,
+    "profesor": "Daury David Gomez Silvestre",
+    "correoInstitucional": "dgomez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 25,
+    "profesor": "David Germosen",
+    "correoInstitucional": "dgermosen@itla.edu.do",
+    "area": "Cocurriculares"
+  },
+  {
+    "id": 26,
+    "profesor": "Driade Judith Pared Diaz",
+    "correoInstitucional": "dpared@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 27,
+    "profesor": "Edickson Minaya Del Rosario",
+    "correoInstitucional": "INACTIVO",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 28,
+    "profesor": "Edwin José Rodríguez Mejía",
+    "correoInstitucional": "erodriguezm@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 29,
+    "profesor": "Eladio Ruiz",
+    "correoInstitucional": "erdelarosa@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 30,
+    "profesor": "Elisia Yoelkis Gerónimo Burgos",
+    "correoInstitucional": "egeronimo@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 31,
+    "profesor": "Elkin Valenzuela Mateo",
+    "correoInstitucional": "evalenzuela@itla.edu.do",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 32,
+    "profesor": "Ellis Zamil Belliard Vàsquez",
+    "correoInstitucional": "ebelliard@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 33,
+    "profesor": "Elvin Noel Valdez Cueva",
+    "correoInstitucional": "envaldez@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 34,
+    "profesor": "Engel Antonio Rivas López",
+    "correoInstitucional": "rivasengel@gmail.com",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 35,
+    "profesor": "Evanyeline Brito Rojas",
+    "correoInstitucional": "ebrojas@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 36,
+    "profesor": "Fracisco Caamano",
+    "correoInstitucional": "fact52@gmail.com",
+    "area": "Multimedia"
+  },
+  {
+    "id": 37,
+    "profesor": "Francisco Alberto Garcia De Leon",
+    "correoInstitucional": "fgarcia@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 38,
+    "profesor": "Francisco Jose Arias Guilamo",
+    "correoInstitucional": "fjarias@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 39,
+    "profesor": "Francisco Ramirez Velasquez",
+    "correoInstitucional": "framirez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 40,
+    "profesor": "Freddy A. García Alvarado",
+    "correoInstitucional": "fgarcia@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 41,
+    "profesor": "Frederic De La Rosa Astacio",
+    "correoInstitucional": "frosa@itla.edu.do",
+    "area": "Seguridad en Informática / Redes"
+  },
+  {
+    "id": 42,
+    "profesor": "Freidy Nunez Perez",
+    "correoInstitucional": "fnunez@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 43,
+    "profesor": "Gean Carlos Sosa",
+    "correoInstitucional": "geancarlos105@gmail.com",
+    "area": "Seguridad en Informática / Redes"
+  },
+  {
+    "id": 44,
+    "profesor": "Gerald Williams Silvania Javiel",
+    "correoInstitucional": "gsilvania@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 45,
+    "profesor": "Gersón Mena Rodriguez",
+    "correoInstitucional": "gmena@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 46,
+    "profesor": "Gerson Rafael Salce Ortega",
+    "correoInstitucional": "gersonsalce@gmail.com",
+    "area": "Redes"
+  },
+  {
+    "id": 47,
+    "profesor": "Gilberto Elias Vittini",
+    "correoInstitucional": "gvittini@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 48,
+    "profesor": "Hector Gonzalez Mejia",
+    "correoInstitucional": "hgonzalez@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 49,
+    "profesor": "Hector Jose Henriquez",
+    "correoInstitucional": "hhenriquez@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 50,
+    "profesor": "Hidalgo Peña",
+    "correoInstitucional": "hpena@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 51,
+    "profesor": "Huascar Frias Vilorio",
+    "correoInstitucional": "hfrias@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 52,
+    "profesor": "Ibis Xiomara Santiago Ferrerias",
+    "correoInstitucional": "iferreira@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 53,
+    "profesor": "Ingrid Eileen Scott Rodríguez",
+    "correoInstitucional": "iscott@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 54,
+    "profesor": "Isbel Cristina Bautista Duran",
+    "correoInstitucional": "20073519@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 55,
+    "profesor": "Israel Peralta Bonifacio",
+    "correoInstitucional": "iperalta@itla.edu.do",
+    "area": "Multimedia / Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 56,
+    "profesor": "Janell Pèrez Mercado",
+    "correoInstitucional": "jperez@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 57,
+    "profesor": "jean gesner jean gilles",
+    "correoInstitucional": "jgilles@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 58,
+    "profesor": "Jean Willio Jean Jules",
+    "correoInstitucional": "jwillio@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 59,
+    "profesor": "Jeremy Guzman Mendoza",
+    "correoInstitucional": "jgmendoza@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 60,
+    "profesor": "Jesus Manuel Reyes de la Cruz",
+    "correoInstitucional": "jmreyes@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 61,
+    "profesor": "Jhonatan Carvajal Antigua",
+    "correoInstitucional": "jhonatancarvajalantigua@gmail.com",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 62,
+    "profesor": "Jhonny Pujols Adame",
+    "correoInstitucional": "jpujols@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 63,
+    "profesor": "Joan Medrano",
+    "correoInstitucional": "jmedranocaridad@gmail.com",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 64,
+    "profesor": "Joel Agustin Rosario Lopez",
+    "correoInstitucional": "joel.arl28@gmail.com",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 65,
+    "profesor": "Joel Andres Cuello Montero",
+    "correoInstitucional": "jacuello@itla.edu.do",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 66,
+    "profesor": "Joel Odalis Morrobel Ovalle",
+    "correoInstitucional": "jmorrobel@itla.edu.do",
+    "area": "Seguridad en Informática/ Redes"
+  },
+  {
+    "id": 67,
+    "profesor": "Jorge Isaac Vanderhorst Ventura",
+    "correoInstitucional": "jvanderhorst@itla.edu.do",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 68,
+    "profesor": "Jorge Ramon Taveras González",
+    "correoInstitucional": "jrtaveras@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 69,
+    "profesor": "Jose Alejandro Martinez Bonetti",
+    "correoInstitucional": "jamartinez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 70,
+    "profesor": "Jose Antonio Scott Guilleard",
+    "correoInstitucional": "jscott@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 71,
+    "profesor": "José Cesar Guzmàn Nuñez",
+    "correoInstitucional": "jguzman@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores / Ciencias Básicas"
+  },
+  {
+    "id": 72,
+    "profesor": "Jose Ernesto Flete Morillo",
+    "correoInstitucional": "jflete@itla.edu.do",
+    "area": "Ciencias Básicas / Multimedia"
+  },
+  {
+    "id": 73,
+    "profesor": "José Manuel Aquino Cepeda",
+    "correoInstitucional": "jaquino@itla.edu.do",
+    "area": "Ciencias de Datos"
+  },
+  {
+    "id": 74,
+    "profesor": "Jose Manuel Doñe Mateo",
+    "correoInstitucional": "jdone@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 75,
+    "profesor": "Jose Manuel Ferreras Gonzalez",
+    "correoInstitucional": "jferreras@itla.edu.do",
+    "area": "Seguridad en Informática/ Redes"
+  },
+  {
+    "id": 76,
+    "profesor": "Jovanny Francisco  De Jesus Encarnacion",
+    "correoInstitucional": "20083438@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 77,
+    "profesor": "Jovanny Francisco De Jesus Encarnacion",
+    "correoInstitucional": "jfdejesus@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 78,
+    "profesor": "Juan Alexander Ramirez Perez",
+    "correoInstitucional": "jaramirez@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 79,
+    "profesor": "Juan Ant. Martinez Cruz",
+    "correoInstitucional": "jmcruz@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 80,
+    "profesor": "Juan Enmanuel Rosario Rodriguez",
+    "correoInstitucional": "jerosario@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 81,
+    "profesor": "Juan Federico Colon Contreras",
+    "correoInstitucional": "jcolon@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 82,
+    "profesor": "Juan Felix Marmolejos Acevedo",
+    "correoInstitucional": "jmarmolejosa@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 83,
+    "profesor": "Juan Fidel Lopez Segura",
+    "correoInstitucional": "jlopez@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 84,
+    "profesor": "Juan Gabriel Liria Henríquez",
+    "correoInstitucional": "jliria@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 85,
+    "profesor": "Juan Martìnez Lòpez",
+    "correoInstitucional": "jmartinez@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 86,
+    "profesor": "Juan Miranda Reyes",
+    "correoInstitucional": "jmiranda@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 87,
+    "profesor": "Juan Restituyo",
+    "correoInstitucional": "juanluisrestituyo@gmail.com",
+    "area": "Software"
+  },
+  {
+    "id": 88,
+    "profesor": "Julio Reyes Arias",
+    "correoInstitucional": "jreyes@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 89,
+    "profesor": "Kelvin Albuèz Blanco",
+    "correoInstitucional": "kalbuez@itla.edu.do",
+    "area": "Seguridad en Informática / Redes"
+  },
+  {
+    "id": 90,
+    "profesor": "Kelyn Tejada Belliard",
+    "correoInstitucional": "ktejada@itla.edu.do",
+    "area": "Software / Ciencias de Datos"
+  },
+  {
+    "id": 91,
+    "profesor": "Leandro Fondeur Gil",
+    "correoInstitucional": "lfondeur@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 92,
+    "profesor": "Leonardo De Jesús Chalas Solano",
+    "correoInstitucional": "lchalas@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 93,
+    "profesor": "Leonardo Enrique Tavarez Betances",
+    "correoInstitucional": "ltavarez@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 94,
+    "profesor": "Lidia Noelia Almonte Rosario",
+    "correoInstitucional": "lnalmonte@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 95,
+    "profesor": "Lionela Cabrera Santana",
+    "correoInstitucional": "lcabrera@itla.edu.do",
+    "area": "Seguridad en Informática / Mecatrónica / Ciencias Básicas"
+  },
+  {
+    "id": 96,
+    "profesor": "Lisbett Jaquez Mueses",
+    "correoInstitucional": "ljaquez@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 97,
+    "profesor": "Livia Gouriliova",
+    "correoInstitucional": "lgouriliova@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 98,
+    "profesor": "Lizmaida Alcala Calcaño",
+    "correoInstitucional": "Lizmaida@live.com",
+    "area": "Mecatrónica / Seguridad en Informática /  Multimedia / Redes"
+  },
+  {
+    "id": 99,
+    "profesor": "Luis Angel Marrero Saldaña",
+    "correoInstitucional": "lamarrero@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 100,
+    "profesor": "Luis Bessewell Feliz",
+    "correoInstitucional": "lbessewell@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 101,
+    "profesor": "Luis Peña Martinez",
+    "correoInstitucional": "lpmartinez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 102,
+    "profesor": "Luis Peralta",
+    "correoInstitucional": "lperaltamolina@gmail.com",
+    "area": "Redes"
+  },
+  {
+    "id": 103,
+    "profesor": "Luis Soto Mirambeaux",
+    "correoInstitucional": "lsoto@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 104,
+    "profesor": "Manuel Guerrero",
+    "correoInstitucional": "mguerrero@itla.edu.do",
+    "area": "Seguridad en Informática/ Redes"
+  },
+  {
+    "id": 105,
+    "profesor": "Maria Alejandra Mazara Gomera",
+    "correoInstitucional": "mamazara@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 106,
+    "profesor": "Maria Antonia Pineda Pereyra",
+    "correoInstitucional": "mpineda@itla.edu.do",
+    "area": "Seguridad en Informática/ Redes"
+  },
+  {
+    "id": 107,
+    "profesor": "Maribel Jimenez Barrios",
+    "correoInstitucional": "mjimenez@itla.edu.do",
+    "area": "Ciencias Básicas / Multimedia"
+  },
+  {
+    "id": 108,
+    "profesor": "Marino Junior Dicent Gil",
+    "correoInstitucional": "mdicent@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 109,
+    "profesor": "Mario Disla",
+    "correoInstitucional": "mdisla@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 110,
+    "profesor": "Marlen Perez Dorville",
+    "correoInstitucional": "mpdorville@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 111,
+    "profesor": "Maximiliano Alvarez",
+    "correoInstitucional": "malvarez@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 112,
+    "profesor": "Mercedes Ledesma Dolores",
+    "correoInstitucional": "mledesma@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 113,
+    "profesor": "Miguel Alexander Perez Volquez",
+    "correoInstitucional": "mperez@itla.edu.do",
+    "area": "Cocurriculares"
+  },
+  {
+    "id": 114,
+    "profesor": "Miguel Antonio Vasquez Liriano",
+    "correoInstitucional": "MVASQUEZ@ITLA.EDU.DO",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 115,
+    "profesor": "Miguel De Jesús",
+    "correoInstitucional": "mdejesus@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 116,
+    "profesor": "Miguel Liceares Moreta Rodriguez",
+    "correoInstitucional": "mmoreta@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 117,
+    "profesor": "Miguel Santiago",
+    "correoInstitucional": "msantiago@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 118,
+    "profesor": "Miguel Santiago Ferreiras",
+    "correoInstitucional": "msantiago@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 119,
+    "profesor": "Moises Gonzalez Salazar",
+    "correoInstitucional": "mgonzalez@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 120,
+    "profesor": "Nelfis Raymundo Stapleton Pilier",
+    "correoInstitucional": "nstapletom@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 121,
+    "profesor": "Nelson Hernandez",
+    "correoInstitucional": "nelsonalejandro73@hotmail.com",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 122,
+    "profesor": "Nelson Jose Mieses Hernandez",
+    "correoInstitucional": "nhernandez@itla.edu.do",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 123,
+    "profesor": "Nestor Andres Martinez Castillo",
+    "correoInstitucional": "namartinez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 124,
+    "profesor": "Nestor Gautreaux",
+    "correoInstitucional": "nestorwgd@hotmail.com",
+    "area": "Multimedia"
+  },
+  {
+    "id": 125,
+    "profesor": "Norys Carolina Garcia Mañon",
+    "correoInstitucional": "cgarcia@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 126,
+    "profesor": "Obed Hernandez Castillo",
+    "correoInstitucional": "obed.djesus@gmail.com",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 127,
+    "profesor": "Onel Luis Pelegrino",
+    "correoInstitucional": "oluisp@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 128,
+    "profesor": "Orlangel De La Rosa Modesto",
+    "correoInstitucional": "oralangelrom@gmail.com",
+    "area": "Redes"
+  },
+  {
+    "id": 129,
+    "profesor": "Pablo Frías",
+    "correoInstitucional": "pfrias@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 130,
+    "profesor": "Pamela María Pantaleon Contreras",
+    "correoInstitucional": "ppantaleon@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 131,
+    "profesor": "Pedro Luis Mercedes Guzmán",
+    "correoInstitucional": "pmercedes@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 132,
+    "profesor": "Pedro Pablo Castro Garcia",
+    "correoInstitucional": "pcastro@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 133,
+    "profesor": "Pedro Sanchez Santana",
+    "correoInstitucional": "psanchez@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 134,
+    "profesor": "Persio Martinez",
+    "correoInstitucional": "pmartinez@itla.edu.do",
+    "area": "Ciencias de Datos"
+  },
+  {
+    "id": 135,
+    "profesor": "Porfirio Marino Campaña Pérez",
+    "correoInstitucional": "pcampana@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 136,
+    "profesor": "Ramon Antonio Gomez Florian",
+    "correoInstitucional": "rgomez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 137,
+    "profesor": "Ramon Leonardo Diaz Diaz",
+    "correoInstitucional": "rdiaz@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 138,
+    "profesor": "Ramón Mena",
+    "correoInstitucional": "rmena@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 139,
+    "profesor": "Raul Calderon Rosendo",
+    "correoInstitucional": "rrosendo@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 140,
+    "profesor": "Raydelto Hernández Perera",
+    "correoInstitucional": "rpera@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 141,
+    "profesor": "Reyes Sebastian Caminero Lucas",
+    "correoInstitucional": "rscaminero@itla.edu.do",
+    "area": "Ciencias de Datos"
+  },
+  {
+    "id": 142,
+    "profesor": "Reyvin Jaquez Grullon",
+    "correoInstitucional": "rjaquez@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 143,
+    "profesor": "Rita Perez",
+    "correoInstitucional": "ritamariaperezperez@yahoo.es",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 144,
+    "profesor": "Rolando Santana",
+    "correoInstitucional": "hsantana@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 145,
+    "profesor": "Romilio Cuevas D´oleo",
+    "correoInstitucional": "rcuevas@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 146,
+    "profesor": "Rossy Alexandra Socorro Cruz",
+    "correoInstitucional": "ilusagol@hotmail.com",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 147,
+    "profesor": "Ruth Esther Reynoso Santos",
+    "correoInstitucional": "rreynoso@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 148,
+    "profesor": "Sally Joslyn Peña Martínez",
+    "correoInstitucional": "spmartinez@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 149,
+    "profesor": "Samuel Alberto Lorenzo Valdez",
+    "correoInstitucional": "slorenzo@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 150,
+    "profesor": "Samuel David Ramirez Angomas",
+    "correoInstitucional": "sdr.angomas@gmail.com",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 151,
+    "profesor": "Sandra Polanco",
+    "correoInstitucional": "spolanco@itla.edu.do",
+    "area": "ILS"
+  },
+  {
+    "id": 152,
+    "profesor": "Santo Figueroa",
+    "correoInstitucional": "sfigueroa@itla.edu.do",
+    "area": "Ciencias Básicas/Multimedia"
+  },
+  {
+    "id": 153,
+    "profesor": "Santo Mateo",
+    "correoInstitucional": "smateo@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 154,
+    "profesor": "Santos E. Moreta Reyes",
+    "correoInstitucional": "smoreta@itla.edu.do",
+    "area": "Form. Humanistica en Etica y Valores"
+  },
+  {
+    "id": 155,
+    "profesor": "Simeon Clase Ulloa",
+    "correoInstitucional": "sclase@ilta.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 156,
+    "profesor": "Starlin Franco Basilis",
+    "correoInstitucional": "sbasilis@itla.edu.do",
+    "area": "Multimedia/ Mecatrónica"
+  },
+  {
+    "id": 157,
+    "profesor": "Sucre Ramirez",
+    "correoInstitucional": "sucreramirez01@gmail.com",
+    "area": "Seguridad en Informática/ Redes"
+  },
+  {
+    "id": 158,
+    "profesor": "Teofilo Antonio Dìaz Pratt",
+    "correoInstitucional": "tdiaz@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 159,
+    "profesor": "Teofilo Moreno Berroa",
+    "correoInstitucional": "kiklan03@hotmail.com",
+    "area": "Cocurriculares"
+  },
+  {
+    "id": 160,
+    "profesor": "Tomàs Rodriguez",
+    "correoInstitucional": "trodriguez@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 161,
+    "profesor": "Ursulina Inoa Pitta",
+    "correoInstitucional": "uinoa@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 162,
+    "profesor": "Valentin Sanchez Estevez",
+    "correoInstitucional": "vsanchez@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 163,
+    "profesor": "Victor Díaz",
+    "correoInstitucional": "vdiaz@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 164,
+    "profesor": "Victor Manuel Mena Muñoz",
+    "correoInstitucional": "vmenam@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 165,
+    "profesor": "Viela Reyes Bourdierd",
+    "correoInstitucional": "vreyes@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 166,
+    "profesor": "Virginia Mercedes Rymer Pérez",
+    "correoInstitucional": "vrymer@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 167,
+    "profesor": "Vladimir Columna Pimentel",
+    "correoInstitucional": "vcolumnap@itla.edu.do",
+    "area": "Multimedia/ Ciencias Básicas"
+  },
+  {
+    "id": 168,
+    "profesor": "Walky Antonio Abreu Lara",
+    "correoInstitucional": "wabreu@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 169,
+    "profesor": "Werner Froilan Olmos Tavàrez",
+    "correoInstitucional": "wolmos@itla.edu.do",
+    "area": "Multimedia"
+  },
+  {
+    "id": 170,
+    "profesor": "Wilin Bernardo Volquez Perez",
+    "correoInstitucional": "wvolquez@itla.edu.do",
+    "area": "Cocurriculares"
+  },
+  {
+    "id": 171,
+    "profesor": "Wilkins Gabriel Cedano Del Rosario",
+    "correoInstitucional": "wcedano@itla.edu.do",
+    "area": "Mecatrónica"
+  },
+  {
+    "id": 172,
+    "profesor": "Willis Ezequiel Polanco Caraballo",
+    "correoInstitucional": "wpolanco@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 173,
+    "profesor": "Willy Alfredo Padua Ruiz",
+    "correoInstitucional": "wpadua@itla.edu.do",
+    "area": "Seguridad en Informática"
+  },
+  {
+    "id": 174,
+    "profesor": "Wilmer Jose Fariña Piñero",
+    "correoInstitucional": "efarina@itla.edu.do",
+    "area": "Software"
+  },
+  {
+    "id": 175,
+    "profesor": "Wilton Oltmanns Encarnación",
+    "correoInstitucional": "woltmanns@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 176,
+    "profesor": "Winkler Antonio Paula Vasquez",
+    "correoInstitucional": "wpaulav@itla.edu.do",
+    "area": "Redes"
+  },
+  {
+    "id": 177,
+    "profesor": "Yahaira García De Diaz",
+    "correoInstitucional": "yagarcia@itla.edu.do",
+    "area": "Ciencias Básicas"
+  },
+  {
+    "id": 178,
+    "profesor": "Yasmery Gomez",
+    "correoInstitucional": "ygomez@itla.edu.do",
+    "area": "Multimedia"
+  }
+]

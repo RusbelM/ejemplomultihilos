@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejemplo
+build_property.ProjectDir = C:\Users\marte\OneDrive\Escritorio\programaparalela\Carpeta - programación paralela\Módulo 07 Uso de hilos en la programación paralela\EjemploProgramacionMultihilo\Ejemplo\
